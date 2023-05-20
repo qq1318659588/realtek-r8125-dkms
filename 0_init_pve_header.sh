@@ -1,3 +1,4 @@
+#!/bin/sh
 
 apt install -y devscripts debmake debhelper build-essential dkms  pve-headers-$(uname -r)
 
