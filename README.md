@@ -58,7 +58,7 @@ sudo apt install realtek-r8125-dkms
 ```
 ### 0_init_pve_header.sh
 
-Using the `0_init_pve_header.sh` script that auto init PVE build environment.
+Using the `0_init_pve_header.sh` script that auto init PVE build environment. This is fix some build environment issues.
 
 ```bash
 sudo sh ./0_init_pve_header.sh
